@@ -128,3 +128,7 @@ Penerapan fungsi tanpa parameter dan return value. Kegunaan dari contoh script d
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/latihan4d2.PNG)
 
 
+# TUGAS 
+![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/krucut.PNG)
+
+
