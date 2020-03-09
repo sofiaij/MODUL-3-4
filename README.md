@@ -116,10 +116,15 @@ Penerapan fungsi untuk menampilkan bilangan ganjil sesuai dengan parameter yang 
 Penerapan fungsi untuk menghitung luas lingkaran dengan menerapkan return value. Return value tersebut digunakan untuk mengembalikan nilai hasil perhitungan luas lingkaran, sehingga output dari pemanggilan fungsi tersebut berupa luas lingkaran.
 
 # Latihan 3
-## 3.	Fungsi tanpa parameter dan return value
+## Fungsi tanpa parameter dan return value
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/3d.PNG)
 
 Penerapan fungsi tanpa parameter dan return value. Kegunaan dari contoh script di atas adalah untuk menambahkan komponen-komponen import data yang biasanya terdapat di dalam <head></head>. Komponen tersebut kemudian dijadikan satu dalam bentuk fungsi agar dapat dipanggil dihalaman lain yang membutuhkan komponen-komponen tersebut. Dengan kata lain agar tidak terjadi duplikasi script di setiap halaman. Hal ini juga mempermudah kita dalam penambahan, pengurangan, maupun pengubahan komponen, karena tidak perlu mengubahnya disetiap halaman, tapi hanya perlu mengubah di fungsi ini saja. Secara otomatis halaman lain akan mengikuti perubahan tersebut.
 
 # Latihan 4 
 ## Memanggil fungsi file lain di dalam 
+![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/latihan4d.PNG)
+
+![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/latihan4d2.PNG)
+
+
