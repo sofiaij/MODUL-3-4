@@ -32,20 +32,26 @@ Nilai default dapat diberikan di parameter. Nilai default berfungsi untuk mengis
 # Latihan 1
 
 ## Latihan Penerapan Fungsi
+
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/1d.PNG)
 
 ## Fungsi dengan parameter
+
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/1d12.PNG)
+
 Penerapan fungsi untuk menampilkan bilangan ganjil sesuai dengan parameter yang dimasukan. Parameter tersebut berfungsi untuk menentukan batasan bilangan ganjil yang akan ditampilkan.
 
 # Latihan 2
 ## Fungsi dengan return value
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/2d.PNG)
+
 Penerapan fungsi untuk menghitung luas lingkaran dengan menerapkan return value. Return value tersebut digunakan untuk mengembalikan nilai hasil perhitungan luas lingkaran, sehingga output dari pemanggilan fungsi tersebut berupa luas lingkaran.
 
 # Latihan 3
 ## 3.	Fungsi tanpa parameter dan return value
+
 ![Alt text](https://github.com/sofiaij/MODUL-3-4/blob/master/3d.PNG)
+
 Penerapan fungsi tanpa parameter dan return value. Kegunaan dari contoh script di atas adalah untuk menambahkan komponen-komponen import data yang biasanya terdapat di dalam <head></head>. Komponen tersebut kemudian dijadikan satu dalam bentuk fungsi agar dapat dipanggil dihalaman lain yang membutuhkan komponen-komponen tersebut. Dengan kata lain agar tidak terjadi duplikasi script di setiap halaman. Hal ini juga mempermudah kita dalam penambahan, pengurangan, maupun pengubahan komponen, karena tidak perlu mengubahnya disetiap halaman, tapi hanya perlu mengubah di fungsi ini saja. Secara otomatis halaman lain akan mengikuti perubahan tersebut.
 
 # Latihan 4 
